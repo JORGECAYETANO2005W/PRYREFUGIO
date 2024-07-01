@@ -15,6 +15,7 @@
 
 </head>
 <body>
+    <h1>Refugio Cachorros</h1>
     <?php require_once "./app/views/inc/navbar.php" ?>
 </body>
 </html>
