@@ -11,12 +11,11 @@
   </div>
   <div id="navMenu" class="navbar-menu">
     <div class="navbar-start">
-      <a class="navbar-item" href="/">InicioMCG
-        
-      </a>
+      <a class="navbar-item" href="/">Inicio</a>
       <a class="navbar-item" href="/about">Donación</a>
       <a class="navbar-item" href="/services">Mascotas</a>
       <a class="navbar-item" href="/contact">Contacto</a>
     </div>
   </div>
 </nav>
+
